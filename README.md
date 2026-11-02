@@ -85,9 +85,9 @@ My goal is to strengthen my technical skills and begin my professional career in
 ### 🎯 Próximos objetivos | Next Goals
 
 ![Java OOP](https://img.shields.io/badge/Java-OOP-ED8B00?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Learning_Goal-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+<!-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Learning_Goal-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-Learning_Goal-005571?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-Future_Goal-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Future_Goal-2496ED?style=flat-square&logo=docker&logoColor=white)-->
 
 ---
 
