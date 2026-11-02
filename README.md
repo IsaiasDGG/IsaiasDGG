@@ -91,17 +91,17 @@ My goal is to strengthen my technical skills and begin my professional career in
 
 ---
 
+
 ## 📊 Estadísticas | GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaiasDGG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IsaiasDGG&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasDGG&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=IsaiasDGG&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=IsaiasDGG&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
 
 > 📌 Las estadísticas muestran la actividad pública de GitHub y no representan necesariamente el nivel de dominio de cada tecnología.
 >
