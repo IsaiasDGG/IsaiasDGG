@@ -123,7 +123,7 @@ My goal is to strengthen my technical skills and begin my professional career in
 
 [![GitHub](https://img.shields.io/badge/GitHub-IsaiasDGG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsaiasDGG)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaías_González-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaias-gonzalez)
-[![Email](https://img.shields.io/badge/Gmail-Contacto_Profesional-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaias.dgg@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-isaias.dgg@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaias.dgg@gmail.com)
 <!-- Añadir aquí LinkedIn y correo profesional cuando estén disponibles. -->
 
 </div>
