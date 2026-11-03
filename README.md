@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Isaías · Desarrollo de Aplicaciones Web · Java · Python · Backend · SQL" width="100%">
+<img src="assets_banner.svg" alt="Isaías · Desarrollo de Aplicaciones Web · Java · Python · Backend · SQL" width="100%">
 
 <h1>¡Hola! Soy Isaías 👋</h1>
 <h3>Hi there! I'm Isaías</h3>
