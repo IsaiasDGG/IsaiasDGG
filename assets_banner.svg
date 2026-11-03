@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-labelledby="t d">
+  <title id="t">Isaías · Desarrollo de Aplicaciones Web · Java · Python · Backend · SQL</title>
+  <desc id="d">Banner del perfil de GitHub de Isaías</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#14213D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1F6FEB"/>
+      <stop offset="1" stop-color="#58A6FF"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#58A6FF" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="260" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="16" fill="url(#grid)"/>
+
+  <rect x="64" y="64" width="6" height="132" rx="3" fill="url(#accent)"/>
+
+  <text x="96" y="124" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="700" fill="#FFFFFF">Isaías</text>
+  <text x="96" y="166" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#9DB2CE">Desarrollo de Aplicaciones Web</text>
+  <text x="96" y="204" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="20" fill="#58A6FF">Java · Python · Backend · SQL</text>
+
+  <g fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M930 100 L880 130 L930 160"/>
+    <path d="M1030 100 L1080 130 L1030 160"/>
+    <path d="M1002 90 L958 170"/>
+  </g>
+</svg>
