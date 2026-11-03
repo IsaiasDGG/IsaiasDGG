@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-labelledby="t d">
-  <title id="t">Isaías · Desarrollo de Aplicaciones Web · Java · Python · Backend · SQL</title>
+  <title id="t">Isaías González · Desarrollo de Aplicaciones Web · Java · Python · Backend · SQL</title>
   <desc id="d">Banner del perfil de GitHub de Isaías</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0" stop-color="#0B1220"/>
       <stop offset="1" stop-color="#14213D"/>
     </linearGradient>
