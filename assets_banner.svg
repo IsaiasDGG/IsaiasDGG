@@ -20,7 +20,7 @@
 
   <rect x="64" y="64" width="6" height="132" rx="3" fill="url(#accent)"/>
 
-  <text x="96" y="124" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="700" fill="#FFFFFF">Isaías</text>
+  <text x="96" y="124" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="700" fill="#FFFFFF">Isaías González</text>
   <text x="96" y="166" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#9DB2CE">Desarrollo de Aplicaciones Web</text>
   <text x="96" y="204" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="20" fill="#58A6FF">Java · Python · Backend · SQL</text>
 
