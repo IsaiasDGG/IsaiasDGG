@@ -1,11 +1,13 @@
 <div align="center">
 
+<img src="assets/banner.svg" alt="Isaías · Desarrollo de Aplicaciones Web · Java · Python · Backend · SQL" width="100%">
+
 <h1>¡Hola! Soy Isaías 👋</h1>
 <h3>Hi there! I'm Isaías</h3>
 
 <p>
-  <b>Estudiante de Desarrollo de Aplicaciones Web · Java · Backend · Bases de datos</b><br>
-  <sub>Web Application Development Student · Java · Backend · Databases</sub>
+  <b>Estudiante de Desarrollo de Aplicaciones Web</b><br>
+  <sub>Web Application Development Student</sub>
 </p>
 
 ![Open](https://img.shields.io/badge/Disponible-Open%20to%20Opportunities-2EA44F?style=for-the-badge&labelColor=14213D)
@@ -20,21 +22,21 @@
 | | |
 |:---|:---|
 | 🎓 **Formación · Education** | Desarrollo de Aplicaciones Web (DAW) · MEDAC, Málaga |
-| 🎯 **Enfoque · Focus** | Java · Backend · SQL |
+| 🎯 **Enfoque · Focus** | Java · Backend · SQL · Python |
 | 📍 **Ubicación · Location** | Málaga, España · Spain |
 | 🔧 **Herramientas · Tools** | Git · GitHub · Bash · NetBeans |
 
 ## Sobre mí | About Me
 
-**ES** · Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** en MEDAC, Málaga, con especial interés en la programación, el desarrollo backend y las bases de datos. Disfruto resolviendo problemas mediante código, desarrollando mi pensamiento lógico y aprendiendo nuevas herramientas.
+**ES** · Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** en MEDAC, Málaga, con especial interés en la programación, el desarrollo backend, las bases de datos y Python. Disfruto resolviendo problemas mediante código, desarrollando mi pensamiento lógico y aprendiendo nuevas herramientas.
 
-**EN** · I'm a **Web Application Development student** at MEDAC in Málaga, Spain, with a strong interest in programming, backend development, and databases. I enjoy solving problems through code, improving my logical thinking, and learning new technologies.
+**EN** · I'm a **Web Application Development student** at MEDAC in Málaga, Spain, with a strong interest in programming, backend development, databases, and Python. I enjoy solving problems through code, improving my logical thinking, and learning new technologies.
 
 | | 🇪🇸 Español | 🇬🇧 English |
 |:---:|---|---|
 | 🎓 | Actualmente estudiando DAW en MEDAC | Currently studying Web Application Development |
 | ☕ | Desarrollando mis habilidades de programación en Java | Improving my Java programming skills |
-| 🐍 | Con formación previa en Python y análisis de datos | Previous training in Python and data analysis |
+| 🐍 | Interesado en Python; con formación previa en Python y análisis de datos | Interested in Python, with previous training in Python and data analysis |
 | 🗄️ | Interesado en bases de datos y SQL | Interested in databases and SQL |
 | 🔧 | Familiarizado con Git, GitHub y Bash | Familiar with Git, GitHub, and Bash |
 | 🚀 | Orientando mi aprendizaje hacia el desarrollo backend | Focusing my learning path on backend development |
